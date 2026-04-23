@@ -1,7 +1,7 @@
 # make sure to increment revision BEFORE any changes to content
 
-BOARD_PREFIX=ua
-BOARD_SUFFIX=efi
+BOARD_PREFIX=
+BOARD_SUFFIX=uaefi-pro
 BOARD_REVISION=e
 
 # does not affect fab files, only needed to have nice rendered preview
